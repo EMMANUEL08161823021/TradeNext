@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6c7bcba.css",
+    "main.js": "/static/js/main.e4f3f57a.js",
+    "static/media/iphone12pro.svg": "/static/media/iphone12pro.b77c81346ad8a795ebfbd83d640bf4c2.svg",
+    "static/media/BigRippleCoin.svg": "/static/media/BigRippleCoin.3e29dbbd342a850aa58cb858238342c0.svg",
+    "static/media/SmallRippleCoin.svg": "/static/media/SmallRippleCoin.4d5e68cff6e635e9bd7ea492357c53fa.svg",
+    "static/media/Liquidity.svg": "/static/media/Liquidity.b7bc0033e6c3a0f2f4b9558941c57bac.svg",
+    "static/media/efficient.svg": "/static/media/efficient.dfa2da4a39183c4ecd6f90700db5b082.svg",
+    "static/media/safety.svg": "/static/media/safety.ea9089fb7a67024ecd3bdf49c5e655a4.svg",
+    "static/media/Frame.svg": "/static/media/Frame.1b8f0929be49b02c1288670be9294380.svg",
+    "static/media/interoperable.svg": "/static/media/interoperable.3ff22f011e7ed51d1e992cd5581afbf5.svg",
+    "static/media/grid design.svg": "/static/media/grid design.68adbdb4e7acf42ef4775cd3b3d79acb.svg",
+    "static/media/btc.svg": "/static/media/btc.b7fd2290ef7f59f69929ff9bd58ef3f7.svg",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.7ec96cc06d26369c246c6a39334941eb.svg",
+    "static/media/grid2by2.svg": "/static/media/grid2by2.8b76ead8bcfcabc96f4531a7b92ca13b.svg",
+    "static/media/discord.svg": "/static/media/discord.889257879a2153b48a1f864e7632baa7.svg",
+    "static/media/simple-icons_ripple.svg": "/static/media/simple-icons_ripple.32415dda4c47ef0aeb96726b558ba452.svg",
+    "static/media/secure.svg": "/static/media/secure.ae196c25dff0cf861024e90e744ca615.svg",
+    "static/media/twitter.svg": "/static/media/twitter.17b1e02ab4167bcd5ee0dd834b797f88.svg",
+    "static/media/framm.svg": "/static/media/framm.5b9910b320418aaeb3b6e076d8fcb629.svg",
+    "static/media/Language icon.svg": "/static/media/Language icon.0e9e7169a0350734531c457f9851ffa4.svg",
+    "static/media/telegram.svg": "/static/media/telegram.977ef14202e8a0a8d1767a48db930c97.svg",
+    "static/media/ltc.svg": "/static/media/ltc.7c36dcf24a4d29a1a0aec9aa385baafe.svg",
+    "index.html": "/index.html",
+    "static/media/gas free.svg": "/static/media/gas free.2799d9b4b582f9d4b0331804412253aa.svg",
+    "static/media/fast.svg": "/static/media/fast.60cb196cdfadb4eb45a3b2b9cdd8122a.svg",
+    "main.d6c7bcba.css.map": "/static/css/main.d6c7bcba.css.map",
+    "main.e4f3f57a.js.map": "/static/js/main.e4f3f57a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c7bcba.css",
+    "static/js/main.e4f3f57a.js"
+  ]
+}
